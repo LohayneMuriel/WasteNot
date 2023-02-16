@@ -6,7 +6,7 @@ import {KeyboardAvoidingView} from 'react-native';
 
 const styles = StyleSheet.create({
   container: {
-    justifyContent:'right',
+    justifyContent:'center',
     alignItems: 'center',
   },
 
